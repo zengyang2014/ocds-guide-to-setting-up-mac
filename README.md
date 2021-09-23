@@ -53,6 +53,11 @@
    - [CheatSheet](#cheatsheet)
    - [Alfred](#alfred)
    - [Stow](#stow)
+   - [Spectacle](#spectacle)
+   - [Clipy](#clipy)
+   - [TickTick](#ticktick)
+   - [Karabiner-Element](#karabiner-element)
+   - [Obsidian](#obsidian)
 
 3. [开发工具](#3-开发工具)
 
